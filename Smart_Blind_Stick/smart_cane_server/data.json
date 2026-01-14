@@ -1,0 +1,2068 @@
+[
+  {
+    "timestamp": "2026-01-12T17:54:04.604679",
+    "front_distance": 16.0,
+    "left_distance": 14.0,
+    "right_distance": 9.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 16.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:54:04.604713"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 14.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:54:04.604719"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 9.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:54:04.604723"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:54:04.604727"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:54:09.866478",
+    "front_distance": 16.0,
+    "left_distance": 12.0,
+    "right_distance": 11.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 16.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:54:09.866521"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 12.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:54:09.866531"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 11.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:54:09.866538"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:54:09.866544"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:54:25.867101",
+    "front_distance": 17.0,
+    "left_distance": 15.0,
+    "right_distance": 14.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 17.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:54:25.867238"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:54:25.867251"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 14.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:54:25.867257"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:54:25.867264"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:54:31.802171",
+    "front_distance": 16.0,
+    "left_distance": 14.0,
+    "right_distance": 9.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 16.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:54:31.802218"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 14.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:54:31.802226"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 9.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:54:31.802232"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:54:31.802238"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:54:37.854479",
+    "front_distance": 16.0,
+    "left_distance": 15.0,
+    "right_distance": 9.0,
+    "ir_distance": 10.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 16.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:54:37.854504"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:54:37.854510"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 9.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:54:37.854514"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:54:37.854519"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:54:43.234265",
+    "front_distance": 49.0,
+    "left_distance": 14.0,
+    "right_distance": 12.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Cảnh báo phía trước: 49.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:54:43.234299"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 14.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:54:43.234305"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 12.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:54:43.234309"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:54:43.234316"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:54:48.395115",
+    "front_distance": 16.0,
+    "left_distance": 15.0,
+    "right_distance": 8.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 16.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:54:48.395142"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:54:48.395149"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 8.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:54:48.395155"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:54:48.395161"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:54:54.017071",
+    "front_distance": 16.0,
+    "left_distance": 14.0,
+    "right_distance": 8.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 16.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:54:54.017095"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 14.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:54:54.017100"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 8.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:54:54.017104"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:54:54.017109"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:54:59.304943",
+    "front_distance": 50.0,
+    "left_distance": 14.0,
+    "right_distance": 11.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 14.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:54:59.304972"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 11.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:54:59.304979"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:54:59.304986"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:55:04.542628",
+    "front_distance": 239.0,
+    "left_distance": 13.0,
+    "right_distance": 8.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 13.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:55:04.542653"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 8.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:55:04.542660"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:55:04.542665"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:55:09.993396",
+    "front_distance": 15.0,
+    "left_distance": 14.0,
+    "right_distance": 9.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 15.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:55:09.993425"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 14.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:55:09.993431"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 9.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:55:09.993436"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:55:09.993441"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:55:15.217701",
+    "front_distance": 15.0,
+    "left_distance": 22.0,
+    "right_distance": 7.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 15.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:55:15.217728"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 22.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:55:15.217733"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 7.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:55:15.217737"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:55:15.217741"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:55:22.165273",
+    "front_distance": 15.0,
+    "left_distance": 15.0,
+    "right_distance": 7.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 15.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:55:22.165296"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:55:22.165301"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 7.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:55:22.165306"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:55:22.165312"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:55:27.399680",
+    "front_distance": 15.0,
+    "left_distance": 16.0,
+    "right_distance": 8.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 15.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:55:27.399702"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 16.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:55:27.399706"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 8.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:55:27.399710"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:55:27.399714"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:55:32.589201",
+    "front_distance": 15.0,
+    "left_distance": 16.0,
+    "right_distance": 8.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 15.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:55:32.589230"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 16.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:55:32.589238"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 8.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:55:32.589244"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:55:32.589250"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:55:37.975597",
+    "front_distance": 15.0,
+    "left_distance": 16.0,
+    "right_distance": 9.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 15.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:55:37.975617"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 16.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:55:37.975622"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 9.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:55:37.975625"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:55:37.975629"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:55:43.170469",
+    "front_distance": 15.0,
+    "left_distance": 16.0,
+    "right_distance": 7.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 15.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:55:43.170494"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 16.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:55:43.170501"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 7.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:55:43.170504"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:55:43.170510"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:55:48.402166",
+    "front_distance": 15.0,
+    "left_distance": 16.0,
+    "right_distance": 7.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 15.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:55:48.402211"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 16.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:55:48.402218"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 7.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:55:48.402225"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:55:48.402232"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:55:53.653352",
+    "front_distance": 15.0,
+    "left_distance": 16.0,
+    "right_distance": 7.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 15.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:55:53.653399"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 16.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:55:53.653409"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 7.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:55:53.653417"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:55:53.653427"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:55:58.838520",
+    "front_distance": 15.0,
+    "left_distance": 15.0,
+    "right_distance": 7.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 15.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:55:58.838560"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:55:58.838571"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 7.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:55:58.838579"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:55:58.838584"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:56:04.039504",
+    "front_distance": 15.0,
+    "left_distance": 15.0,
+    "right_distance": 11.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 15.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:56:04.039537"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:56:04.039542"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 11.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:56:04.039546"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:56:04.039550"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:56:09.227565",
+    "front_distance": 16.0,
+    "left_distance": 15.0,
+    "right_distance": 7.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 16.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:56:09.227586"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:56:09.227591"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 7.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:56:09.227594"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:56:09.227599"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:56:14.485151",
+    "front_distance": 15.0,
+    "left_distance": 15.0,
+    "right_distance": 7.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 15.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:56:14.485180"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:56:14.485187"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 7.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:56:14.485192"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:56:14.485198"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:56:19.691289",
+    "front_distance": 16.0,
+    "left_distance": 16.0,
+    "right_distance": 8.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 16.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:56:19.691309"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 16.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:56:19.691313"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 8.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:56:19.691317"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:56:19.691320"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:56:24.924503",
+    "front_distance": 16.0,
+    "left_distance": 16.0,
+    "right_distance": 9.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 16.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:56:24.924529"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 16.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:56:24.924536"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 9.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:56:24.924541"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:56:24.924546"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:56:30.532825",
+    "front_distance": 16.0,
+    "left_distance": 15.0,
+    "right_distance": 9.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 16.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:56:30.532868"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:56:30.532874"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 9.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:56:30.532878"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:56:30.532884"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:56:35.717987",
+    "front_distance": 16.0,
+    "left_distance": 15.0,
+    "right_distance": 12.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 16.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:56:35.718023"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:56:35.718033"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 12.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:56:35.718043"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:56:35.718055"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:56:40.897225",
+    "front_distance": 16.0,
+    "left_distance": 15.0,
+    "right_distance": 12.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 16.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:56:40.897250"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:56:40.897257"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 12.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:56:40.897262"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:56:40.897269"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:56:46.751731",
+    "front_distance": 16.0,
+    "left_distance": 15.0,
+    "right_distance": 8.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 16.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:56:46.751751"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:56:46.751756"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 8.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:56:46.751759"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:56:46.751763"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:56:51.974096",
+    "front_distance": 16.0,
+    "left_distance": 15.0,
+    "right_distance": 8.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 16.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:56:51.974126"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:56:51.974136"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 8.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:56:51.974142"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:56:51.974148"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:56:57.161741",
+    "front_distance": 17.0,
+    "left_distance": 15.0,
+    "right_distance": 8.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 17.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:56:57.161767"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:56:57.161773"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 8.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:56:57.161777"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:56:57.161783"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:57:02.770715",
+    "front_distance": 18.0,
+    "left_distance": 15.0,
+    "right_distance": 13.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 18.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:57:02.770771"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:57:02.770777"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 13.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:57:02.770781"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:57:02.770787"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:57:07.970519",
+    "front_distance": 18.0,
+    "left_distance": 15.0,
+    "right_distance": 16.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 18.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:57:07.970540"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:57:07.970545"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 16.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:57:07.970548"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:57:07.970553"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:57:13.196785",
+    "front_distance": 18.0,
+    "left_distance": 15.0,
+    "right_distance": 15.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 18.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:57:13.196831"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:57:13.196846"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 15.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:57:13.196859"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:57:13.196873"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:57:18.732218",
+    "front_distance": 54.0,
+    "left_distance": 15.0,
+    "right_distance": 14.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:57:18.732246"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 14.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:57:18.732253"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:57:18.732259"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:57:23.946763",
+    "front_distance": 94.0,
+    "left_distance": 16.0,
+    "right_distance": 15.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 16.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:57:23.946805"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 15.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:57:23.946812"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:57:23.946819"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:57:29.167744",
+    "front_distance": 239.0,
+    "left_distance": 16.0,
+    "right_distance": 9.0,
+    "ir_distance": 10.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 16.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:57:29.167773"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 9.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:57:29.167779"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:57:29.167786"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:57:34.690371",
+    "front_distance": 56.0,
+    "left_distance": 16.0,
+    "right_distance": 15.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 16.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:57:34.690432"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 15.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:57:34.690446"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:57:34.690459"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:57:39.940819",
+    "front_distance": 56.0,
+    "left_distance": 16.0,
+    "right_distance": 13.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 16.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:57:39.940845"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 13.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:57:39.940851"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:57:39.940856"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:57:45.202027",
+    "front_distance": 18.0,
+    "left_distance": 16.0,
+    "right_distance": 13.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 18.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:57:45.202052"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 16.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:57:45.202059"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 13.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:57:45.202064"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:57:45.202070"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:57:50.790863",
+    "front_distance": 16.0,
+    "left_distance": 16.0,
+    "right_distance": 16.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 16.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:57:50.790888"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 16.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:57:50.790894"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 16.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:57:50.790899"
+      },
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:57:50.790904"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:57:56.032282",
+    "front_distance": 17.0,
+    "left_distance": 16.0,
+    "right_distance": 15.0,
+    "ir_distance": 10.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 17.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:57:56.032329"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 16.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:57:56.032344"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 15.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:57:56.032357"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:57:56.032366"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T17:58:01.267237",
+    "front_distance": 16.0,
+    "left_distance": 16.0,
+    "right_distance": 12.0,
+    "ir_distance": 10.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 16.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T17:58:01.267298"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 16.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T17:58:01.267313"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 12.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T17:58:01.267325"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T17:58:01.267334"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:07:36.092334",
+    "front_distance": 175.0,
+    "left_distance": 59.0,
+    "right_distance": 73.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:07:36.092371"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:07:41.316771",
+    "front_distance": 173.0,
+    "left_distance": 56.0,
+    "right_distance": 75.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:07:41.316814"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:07:46.531946",
+    "front_distance": 174.0,
+    "left_distance": 56.0,
+    "right_distance": 76.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:07:46.531997"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:07:51.727724",
+    "front_distance": 225.0,
+    "left_distance": 55.0,
+    "right_distance": 76.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:07:51.727765"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:07:56.919407",
+    "front_distance": 175.0,
+    "left_distance": 56.0,
+    "right_distance": 76.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:07:56.919443"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:08:02.158612",
+    "front_distance": 62.0,
+    "left_distance": 55.0,
+    "right_distance": 78.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:08:02.158642"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:08:07.341339",
+    "front_distance": 69.0,
+    "left_distance": 55.0,
+    "right_distance": 68.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:08:07.341363"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:08:12.587173",
+    "front_distance": 66.0,
+    "left_distance": 46.0,
+    "right_distance": 999.0,
+    "ir_distance": 10.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 46.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T18:08:12.587229"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:08:12.587239"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:08:17.762198",
+    "front_distance": 65.0,
+    "left_distance": 52.0,
+    "right_distance": 999.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:08:17.762225"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:08:22.954508",
+    "front_distance": 67.0,
+    "left_distance": 52.0,
+    "right_distance": 999.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:08:22.954580"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:08:28.124394",
+    "front_distance": 65.0,
+    "left_distance": 94.0,
+    "right_distance": 71.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:08:28.124439"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:08:33.316181",
+    "front_distance": 66.0,
+    "left_distance": 89.0,
+    "right_distance": 68.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:08:33.316202"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:08:38.569564",
+    "front_distance": 81.0,
+    "left_distance": 87.0,
+    "right_distance": 68.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:08:38.569586"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:08:43.826849",
+    "front_distance": 83.0,
+    "left_distance": 65.0,
+    "right_distance": 67.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:08:43.826893"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:08:49.023350",
+    "front_distance": 83.0,
+    "left_distance": 64.0,
+    "right_distance": 67.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:08:49.023379"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:08:54.204945",
+    "front_distance": 223.0,
+    "left_distance": 64.0,
+    "right_distance": 65.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:08:54.204967"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:08:59.459761",
+    "front_distance": 999.0,
+    "left_distance": 62.0,
+    "right_distance": 67.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:08:59.459803"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:09:04.614107",
+    "front_distance": 193.0,
+    "left_distance": 62.0,
+    "right_distance": 67.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:09:04.614140"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:09:09.805206",
+    "front_distance": 236.0,
+    "left_distance": 62.0,
+    "right_distance": 68.0,
+    "ir_distance": 80.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CÓ HỐ/BẬC THỀM: 80.0cm",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:09:09.805230"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:09:15.039285",
+    "front_distance": 238.0,
+    "left_distance": 61.0,
+    "right_distance": 39.0,
+    "ir_distance": 10.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 39.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T18:09:15.039323"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:09:15.039332"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:25:10.772113",
+    "front_distance": 242.0,
+    "left_distance": 9.0,
+    "right_distance": 26.0,
+    "ir_distance": 10.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 9.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T18:25:10.772143"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 26.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T18:25:10.772152"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:25:10.772156"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:25:15.957958",
+    "front_distance": 56.0,
+    "left_distance": 9.0,
+    "right_distance": 24.0,
+    "ir_distance": 10.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 9.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T18:25:15.958003"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 24.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T18:25:15.958014"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:25:15.958020"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:25:21.347655",
+    "front_distance": 240.0,
+    "left_distance": 13.0,
+    "right_distance": 16.0,
+    "ir_distance": 10.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 13.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T18:25:21.347708"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 16.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T18:25:21.347718"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:25:21.347727"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:25:26.484386",
+    "front_distance": 51.0,
+    "left_distance": 13.0,
+    "right_distance": 7.0,
+    "ir_distance": 10.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 13.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T18:25:26.484414"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 7.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T18:25:26.484421"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:25:26.484425"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:25:31.896148",
+    "front_distance": 240.0,
+    "left_distance": 14.0,
+    "right_distance": 22.0,
+    "ir_distance": 10.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 14.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T18:25:31.896181"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 22.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T18:25:31.896185"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:25:31.896188"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:25:37.050458",
+    "front_distance": 241.0,
+    "left_distance": 9.0,
+    "right_distance": 16.0,
+    "ir_distance": 10.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 9.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T18:25:37.050485"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 16.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T18:25:37.050492"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:25:37.050495"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:25:42.648510",
+    "front_distance": 241.0,
+    "left_distance": 9.0,
+    "right_distance": 16.0,
+    "ir_distance": 10.0,
+    "mode": 2,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 9.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T18:25:42.648551"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 16.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T18:25:42.648557"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:25:42.648562"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:25:47.867541",
+    "front_distance": 245.0,
+    "left_distance": 9.0,
+    "right_distance": 16.0,
+    "ir_distance": 10.0,
+    "mode": 1,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 9.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T18:25:47.867610"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 16.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T18:25:47.867627"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:25:47.867637"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:25:53.031251",
+    "front_distance": 241.0,
+    "left_distance": 8.0,
+    "right_distance": 16.0,
+    "ir_distance": 10.0,
+    "mode": 2,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 8.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T18:25:53.031293"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 16.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T18:25:53.031301"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:25:53.031305"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:25:58.321034",
+    "front_distance": 74.0,
+    "left_distance": 15.0,
+    "right_distance": 46.0,
+    "ir_distance": 10.0,
+    "mode": 2,
+    "alerts": [
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 15.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T18:25:58.321064"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 46.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T18:25:58.321069"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:25:58.321074"
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-01-12T18:26:03.716311",
+    "front_distance": 13.0,
+    "left_distance": 9.0,
+    "right_distance": 28.0,
+    "ir_distance": 10.0,
+    "mode": 2,
+    "alerts": [
+      {
+        "type": "danger",
+        "message": "⚠️ CHƯỚNG NGẠI VẬT PHÍA TRƯỚC: 13.0cm",
+        "location": "front",
+        "timestamp": "2026-01-12T18:26:03.716354"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên trái: 9.0cm",
+        "location": "left",
+        "timestamp": "2026-01-12T18:26:03.716364"
+      },
+      {
+        "type": "warning",
+        "message": "⚠️ Có vật thể bên phải: 28.0cm",
+        "location": "right",
+        "timestamp": "2026-01-12T18:26:03.716372"
+      },
+      {
+        "type": "info",
+        "message": "⚠️ Mặt đất không bằng phẳng",
+        "location": "bottom",
+        "timestamp": "2026-01-12T18:26:03.716376"
+      }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "danger_distance": 25,
+  "warn_distance": 50,
+  "safe_distance": 80,
+  "ir_ground": 20,
+  "ir_hole": 40
+}
